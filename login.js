@@ -3,7 +3,6 @@ const app = Vue.createApp({
 	data () {
 		return {
 			url: 'https://vue3-course-api.hexschool.io/',
-			pathe: 'item666',
 			user: {
 				username: '',
 				password: ''
